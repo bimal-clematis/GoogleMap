@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nxp_text_color">#ffffff</color>
+    <color name="Black">#000000</color>
+    <color name="NXPOrangeColor">#2C2A22</color>
+    <color name="NXPBlueColor">#7CAFDC</color>
+    <color name="NXPGreenColor">#C8D200</color>
+    <color name="white">#FFFFFF</color>
+    <color name="pagebackground">#ADAEAF</color>
+    <color name="pagebackground1">#D5D7D8</color>
+    <color name="yellowStart">#E8BF00</color>
+    <color name="yellowEnd">#FFE671</color>
+    <color name="grey05">#A4A4A4</color>
+    <color name="orangeStart">#FFA200</color>
+    <color name="orangeEnd">#FFC45E</color>
+    <color name="blueStart">#0084E0</color>
+    <color name="blueEnd">#77C7FF</color>
+    <color name="light">#E0FFFF</color>
+    <color name="transparent_blue">#80004488</color>
+    <color name="NXPDarkOrangeColor">#F9A200</color>
+    <color name="NXPListDivider">#D5D7D8</color>
+    <color name="NXPSubtitleColor">#848586</color>
+    <color name="NXPDarkGrey">#848586</color>
+    <color name="NXPRed">#CD0000</color>
+    <color name="NXPLightGrey">#CCCCCC</color>
+    <color name="NXPListSelector">#F9A200</color>
+    <color name="filter_select">#126E00</color>
+    <color name="filter_un_select">#7B0000</color>
+
+</resources>

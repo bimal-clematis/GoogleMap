@@ -1,0 +1,13 @@
+C:\googlemap\debug.keystore
+
+
+keytool -v -list -keystore C:\googlemap\debug.keystore
+
+SHA1: 9F:94:3C:01:C4:40:9B:FA:74:D7:74:3B:07:B8:76:A3:0F:93:8D:69;com.example.googlemap
+
+
+
+9F:94:3C:01:C4:40:9B:FA:74:D7:74:3B:07:B8:76:A3:0F:93:8D:69;com.example.shakeitandroid
+
+
+AIzaSyCoFk5Yx2RWZxvHf9WRPxv6SG_h1M9K5HM-PocDrivingDirection

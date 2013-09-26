@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="@color/transparent_blue"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/main_activity_title"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:paddingLeft="3dp"
+            android:text="Please choose a category "
+            android:textColor="@color/Black"
+            android:textSize="15dp"
+            android:textStyle="bold" >
+        </TextView>
+
+        <ImageButton
+            android:id="@+id/map_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="7dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/map_drawable_icon" />
+    </LinearLayout>
+    <!-- List view -->
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="5dp"
+        android:layout_weight="1" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="8"
+        android:background="@color/transparent_blue"
+        android:gravity="center_horizontal"
+        android:text="Distances shown here are aerial distances.." />
+
+</LinearLayout>
